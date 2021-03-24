@@ -286,7 +286,11 @@ nav .container-fluid {
 }
 
 .layout-item-link-info {
-   line-height: 1.75;
+   
+   font-size: 16px;
+   line-height: 28px;
+   letter-spacing: -0.500211px;
+   color: #696871;
 }
 
 .Layout-info {
