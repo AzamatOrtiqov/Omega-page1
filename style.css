@@ -159,6 +159,18 @@ nav .container-fluid {
    width: 45%;
 }
 
+.togle-menu {
+   width: 30px;
+   border: none;
+   margin-left: auto;
+   display: none;
+
+
+}
+   .togle-menu:focus {
+      outline: none;
+   }
+
 .about .container {
    display: flex;
    justify-content: space-between;
@@ -1007,6 +1019,14 @@ strong {
 
    .container {
       width: 400px;
+   }
+
+   .nav-list {
+      display: none;
+   }
+   
+   .togle-menu {
+      display: block;
    }
 
    .content-section,
