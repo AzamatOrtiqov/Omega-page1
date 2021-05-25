@@ -20,13 +20,11 @@ img {
 .container {
    width: 1140px;
    margin: 0 auto;
-   border: 2px solid black;
 }
 
 .container-fluid {
    width: 1240px;
    margin: 0 auto;
-   border: 2px solid black;
 }
 
 body {
